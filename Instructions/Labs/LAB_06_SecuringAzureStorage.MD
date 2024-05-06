@@ -119,7 +119,7 @@ In this task, you will create a network security group with two outbound securit
 
 4. Click **Review + create** and then click **Create**.
 
-    >**Note**: In the next steps, you will create an outbound security rule that allows communication to the Azure Storage service. 
+    >**Note**: In the next steps, you will create an inbound security rule that allows RDP communication (3389). 
 
 5. In the Azure portal, navigate back to the **Network security groups** blade and click the **myNsgPrivate** entry.
 
